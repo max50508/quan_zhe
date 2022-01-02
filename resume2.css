@@ -78,7 +78,14 @@
 }
 
 /* ---------------------- */
-
+@keyframes BOOM {
+    0%{height: 100px;overflow: hidden;}
+    90%{height: 100px;overflow: hidden;}
+    100%{height: auto;overflow: auto;}
+}
+.content{
+    animation: BOOM 1s linear;
+}
 .header{
     position: fixed;
     height: 100px;
