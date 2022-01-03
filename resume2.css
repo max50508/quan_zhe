@@ -108,7 +108,7 @@
 
 /* ----------- */
 .personal{
-    height: 740px;
+    height: 100vh;
     width: 100%;
     background-color: black;
     position: relative;
@@ -180,7 +180,7 @@
 
 /* ----------------------- */
 .experience{
-    height: 740px;
+    height: 100vh;
     width: 100%;
     background-color: black;
     position: relative;
@@ -261,7 +261,7 @@
 }
 /* ----------------- */
 .linebot{
-    height: 740px;
+    height: 100vh;
     width: 100%;
     background-color: black;
     position: relative;
@@ -366,7 +366,7 @@
 /* --------------------- */
 
 .front_sight{
-    height: 740px;
+    height: 100vh;
     width: 100%;
     background-color: black;
     position: relative;
@@ -432,7 +432,7 @@
 
 /* ------------------------------------------------- */
 .web_crawler{
-    height: 740px;
+    height: 100vh;
     width: 100%;
     background-color: black;
     position: relative;
